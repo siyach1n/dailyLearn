@@ -1,0 +1,47 @@
+ .name-box {
+   font-family: Arial;
+   width: 100px;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 6px;
+   padding-bottom: 6px;
+   border-color: rgb(180, 180, 180);
+   border-style: solid;
+   border-width: 1px;
+   border-radius: 5px;
+   margin-bottom: 8px;
+   cursor: pointer;
+ }
+
+ .Email-box {
+   display: block;
+   font-family: Arial;
+   width: 225px;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 6px;
+   padding-bottom: 6px;
+   border-color: rgb(180, 180, 180);
+   border-style: solid;
+   border-width: 1px;
+   border-radius: 5px;
+   margin-bottom: 8px;
+   cursor: pointer;
+ }
+
+ .signup-button {
+   background-color: rgb(4, 100, 255);
+   font-size: 16px;
+   color: white;
+   border-radius: 3px;
+   border: none;
+   font-family: Arial;
+   width: 245px;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 11px;
+   padding-bottom: 11px;
+   font-weight: bold;
+   cursor: pointer;
+
+ }
