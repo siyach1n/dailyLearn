@@ -1,1 +1,30 @@
 
+p {
+  font-family: roboto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.username {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.userid {
+  font-weight: 100;
+  color: gray;
+}
+
+.content {
+  margin-top: 8px;
+  font-size: 20px;
+}
+
+.content2 {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.usertag {
+  color: rgb(12, 129, 255);
+}

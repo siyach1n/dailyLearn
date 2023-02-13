@@ -1,0 +1,33 @@
+ p {
+   font-family: Arial;
+   margin-bottom: 0px;
+   margin-top: 0;
+
+ }
+
+ .price1 {
+   font-size: 35px;
+   margin-bottom: 5px;
+ }
+
+ .usd {
+   font-size: 18px;
+   color: gray;
+   margin-bottom: 0px;
+ }
+
+ .inctoday {
+   color: rgb(21, 146, 21);
+   font-size: 18px;
+
+ }
+
+ .after {
+   margin-top: 5px;
+   color: gray;
+   font-size: 18px;
+ }
+
+ .dectoday {
+   color: red;
+ }
